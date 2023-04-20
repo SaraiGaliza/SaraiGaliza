@@ -6,7 +6,7 @@
 
 ### 🌐 Tech Stack: Python, JS, CSS, HTML, GIT
 
-- 🎓 I’m currently learning Python, JS, CSS & HTML
+- 🎓 I’m currently learning all as I can about tecnology and digital advances
 - 💪 I'm looking to collaborate on projects that require assistance with basic programming knowledge.
 - 💬 I’m looking for help with english! It's my weekness
 - 💛 Ask me about anything, I am happy to help or learn from others
