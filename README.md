@@ -16,7 +16,7 @@
   <ul>
    <li>💥 Will I be able to find a job as a programmer without paying for any training? Challenge accepted!</li>
    <li>🎓 I’m currently learning all as I can about tecnology and digital advances</li>
-   <li>🚀 I want to learn more about: Frameworks, SQL & NoSQL, Data Structures, Algorithms...</li>
+   <li>🚀 I want to learn more about: Frameworks, Data Structures, Algorithms and good practices</li>
    <li>💪 I'm looking to collaborate on projects that require assistance with basic programming knowledge.</li>
    <li>💬 I need help with english! It's my weaknessss (but I don't give up)</li>
    <li>💛 Ask me about anything, I am happy to help or learn from others</li>
