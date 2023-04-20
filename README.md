@@ -1,7 +1,8 @@
+<div>
 <h1> 👋 Hi, I'm Sarai </h1>
-
   <p>I'm interested in the world of programming, specifically in data analysis and the AdTech sector. Currently, I'm self-learning different programming languages like Python, JavaScript, CSS, and HTML, while continuing to work as a Digital Advertising Expert.</p>
-  
+</div>
+
 <h2> 🌐 Tech Stack </h2>
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
@@ -10,9 +11,9 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  
-<h3> 👀 About Me </h3>
 
+<div>
+ <h3> 👀 About Me </h3>
   <ul>
    <li>💥 Will I be able to find a job as a programmer without paying for any training? Challenge accepted!</li>
    <li>🎓 I’m currently learning all as I can about tecnology and digital advances</li>
@@ -22,8 +23,11 @@
    <li>💛 Ask me about anything, I am happy to help or learn from others</li>
   </ul>
   <p>⚡ Fun fact: I'm not the doggie in photo, she is Zoe 🐶 (My Tech-Sis 🤜🤛)</p>
+</div>
 
+<div>
 <p align="right">
   <a href="mailto:sarairodriguezlago@gmail.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail" width="30" /></a>
   <a href="https://www.linkedin.com/in/sarairodr%C3%ADguezlago/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="30" /></a>
 </p>
+</div>
