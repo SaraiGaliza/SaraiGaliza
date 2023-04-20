@@ -23,3 +23,7 @@
   </ul>
   <p>⚡ Fun fact: I'm not the doggie in photo, she is Zoe 🐶 (My Tech-Sis 🤜🤛)</p>
 
+<p align="right">
+  <a href="mailto:sarairodriguezlago@gmail.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail" width="30" /></a>
+  <a href="https://www.linkedin.com/in/sarairodr%C3%ADguezlago/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="30" /></a>
+</p>
