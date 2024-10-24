@@ -1,6 +1,6 @@
 <div>
 <h1> 👋 Hi, I'm Sarai </h1>
-  <p>I'm interested in the world of programming, specifically in the AdTech sector. Currently, I'm self-learning different programming languages like Python, JavaScript, CSS, and HTML, while continuing to work as a Digital Advertising Expert.</p>
+  <p> 🔭 Currently studying at 42 Barcelona. Learning Software Development. Since 2021 I'm interested in the world of programming, specifically in the AdTech sector. I'm self-learning different programming languages like Python, JavaScript, CSS, and HTML, while continuing to work as a Digital Advertising Expert.</p>
 </div>
 
 <h2> 🌐 Tech Stack </h2>
