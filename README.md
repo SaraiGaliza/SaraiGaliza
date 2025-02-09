@@ -3,7 +3,7 @@
   <p> 🔭 Currently studying at 42 Barcelona. Learning Software Development. Since 2021 I'm interested in the world of programming, specifically in the AdTech sector. I'm self-learning different programming languages, while continuing to work as a Digital Advertising Expert.</p>
 </div>
 
-<h2> 🌐 Tech Stacki want to learn: </h2>
+<h2> 🌐 Tech Stack I want to learn: </h2>
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
