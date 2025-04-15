@@ -21,7 +21,7 @@
    <li>💬 I need help with english! It's my weaknessss (but I don't give up)</li>
    <li>💛 Ask me about anything, I am happy to help or learn from others</li>
   </ul>
-  <p>⚡ Fun fact: I'm not the doggie in photo, she is Zoe 🐶 (My Tech-Sis 🤜🤛)</p>
+  <p>⚡ Fun fact: The doggie in photo, she is Zoe 🐶 (My Tech-Sis 🤜🤛)</p>
 </div>
 
 <div>
