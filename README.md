@@ -1,6 +1,6 @@
 <div>
 <h1> 👋 Hi, I'm Sarai </h1>
-  <p> 🔭 Currently studying at 42 Barcelona. Learning Software Development. Since 2021 I'm interested in the world of programming, specifically in the AdTech sector. I'm self-learning while continuing to work as a Digital Advertising Expert.</p>
+  <p> 🔭 Currently I'm learning Software Development by myself, since 2021 I'm interested in tech sector. I'm self-learning while continuing to work as a Digital Advertising Expert.</p>
 </div>
 
 <h2> 🌐 Tech Stack I want to learn: </h2>
@@ -18,10 +18,8 @@
    <li>🎓 I’m currently learning all as I can about tecnology and digital advances</li>
    <li>🚀 I want to learn more about good practices</li>
    <li>💪 I'm looking to collaborate on projects that require assistance with basic programming knowledge.</li>
-   <li>💬 I need help with english! It's my weaknessss (but I don't give up)</li>
    <li>💛 Ask me about anything, I am happy to help or learn from others</li>
   </ul>
-  <p>⚡ Fun fact: The doggie in photo is Zoe 🐶 (My Tech-Sis 🤜🤛)</p>
 </div>
 
 <div>
